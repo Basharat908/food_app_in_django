@@ -4,7 +4,6 @@
 
 ## Requirement
     
-[get-pip.zip](https://github.com/7Har/Restaurant_management_system/files/6250009/get-pip.zip)
 
 
     python get-pip.py
